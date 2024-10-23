@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hosiverse.github.io/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/app/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/assets/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/css/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/includes/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/item/hosiverse.hosiverse
+Sitemap: https://hosiverse.github.io/src/hosiverse.hosiverse
